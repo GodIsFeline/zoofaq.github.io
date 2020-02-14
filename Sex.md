@@ -3,11 +3,11 @@
 Animals can give consent to us just as they, as most other mammals do, to each other - non-verbally.
 Specific behaviour may depend on species, gender, and simply the individual personality of the
 animal; but for example, in the case of female domestic dogs, general "soliciting behavior" includes
-physical contact, and in the case of no apparent interest from the male, "the bitch will present the
-perineum with the tail up to the male's nose".{% sup %}[[0]](#ref0){% endsup %}
+physical contact, and in the case of no apparent interest from the male,
 
-> If the male shows minimal interest, the bitch may continue the teasing behavior by sniffing and
-licking the male’s anogenital area and by investigating his face, inguinal area, and penis.{% sup %}[[0]](#ref0){% endsup %}
+> [T]he bitch will present the perineum with the tail up to the male's nose...If the male shows
+minimal interest, the bitch may continue the teasing behavior by sniffing and licking the male’s
+anogenital area and by investigating his face, inguinal area, and penis.{% sup %}[[0]](#ref0){% endsup %}
 
 Obviously, animals cannot give *informed* consent. This, simply, is because informed consent is purely
 a legal concept and is not present in any situation, human or not, outside of a synthetic societal
