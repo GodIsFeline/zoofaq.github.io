@@ -7,3 +7,4 @@
 * [Are Animals Conscious Like Us?](Conscious.md)
 * [Can Animals Understand Humans?](Understand.md)
 * [Isn't a Dog's Brain like a Three Year-Old's?](ThreeYearOld.md)
+* [Is Zoosexuality Really a Sexuality?](Sexuality.md)
